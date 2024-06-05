@@ -5,12 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github- perfil-trofeo"><img src="https://github-profile-tropico.vercel.app/?username=jonatan1014" alt="jonatan1014" /></a> </p>
 
+- 🔭 Actualmente estoy trabajando en [BeautyCareIA](https://github.com/Jonatan1014/BeautyCare)
+
+- 👯 Estoy buscando colaborar en [MSG Selenium](https://github.com/Jonatan1014/MGS_Selenium)
+
 <h3 align="left ">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jonatan-cantillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonatan-cantillo" height= "30" ancho="40" /></a>
-<a href="https://fb.com/jonatan david" target="blank"><img align="center" src="https:// raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonatan david" height="30" width="40" /></ a>
-<a href="https://instagram.com/lamotomasrrapidadelmundo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/instagram.svg" alt="lamotomasrrapidadelmundo" height="30" width="40" /></a>
-<a href="https://discord.gg /.lamotomasrrapidadelmundo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ discord.svg" alt=".lamotomasrrapidadelmundo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jonatan david cantillo torres" target="blank"><img align="center " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonatan david cantillo torres" altura="30" ancho="40" /></a>
+<a href="https://fb.com/jonatan david" target="blank"><img align="center" src="https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonatan david" height="30" width="40" /> </a>
+<a href="https://instagram.com/lamotomasrrapidadelmundo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/instagram.svg" alt="lamotomasrrapidadelmundo" height="30" width="40" /></a>
+<a href="https://discord .gg/lamotomasrrapidadelmundo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /discord.svg" alt="lamotomasrrapidadelmundo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
