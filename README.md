@@ -18,6 +18,6 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y ef
 - **[MGS Selenium](https://github.com/Jonatan1014/MGS_Selenium)**: Desarrollo de API para subir imágenes y automatización de procesos.
 
 ### 🌐 Contacto
-- **LinkedIn**: [linkedin.com/in/jonatan-cantillo](https://www.linkedin.com/in/jonatan-cantillo)
+- **LinkedIn**: [Jonatan Cantillo](https://www.linkedin.com/in/jonatan-cantillo)
 - **Correo**: jcantillocompany@gmail.com
-- **Instagram**: [instagram.com/lamotomasrrapidadelmundo/](https://www.instagram.com/lamotomasrrapidadelmundo/)
+- **Instagram**: [@lamotomasrrapidadelmundo](https://www.instagram.com/lamotomasrrapidadelmundo/)
