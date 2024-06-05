@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jonatan David Cantillo Torre
+# 👋 Hola, soy Jonatan Cantillo
 
 ### 💻 Sobre Mí
 Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y eficientes. Actualmente, estoy cursando el 7mo semestre de Ingeniería de Sistemas en la Universidad de Investigación y Desarrollo (UDI).
@@ -20,4 +20,4 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y ef
 ### 🌐 Contacto
 - **LinkedIn**: [linkedin.com/in/jonatan-cantillo](https://www.linkedin.com/in/jonatan-cantillo)
 - **Correo**: jcantillocompany@gmail.com
-- **GitHub**: [github.com/Jonatan1014](https://github.com/Jonatan1014)
+- **Instagram**: [instagram.com/lamotomasrrapidadelmundo/](https://www.instagram.com/lamotomasrrapidadelmundo/)
