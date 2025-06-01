@@ -95,7 +95,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jonatan1014/Jonatan1014/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jonatan1014/Jonatan1014/37d3e9bd34a6013fa1e407c2a5f0f94e7abde117/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jonatan1014/Jonatan1014/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jonatan1014/Jonatan1014/output/pacman-contribution-graph.svg">
 </picture>
